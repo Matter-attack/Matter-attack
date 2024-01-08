@@ -7,7 +7,7 @@ The rapid evolution of Internet of Things (IoT) technologies allows users to int
 
 [![Hidden Hub Eavesdropping Attack](https://github.com/Matter-attack/Matter-attack/blob/main/matter.png)](https://www.youtube.com/watch?v=CVO1xlYa2n0)
 
-https://github.com/Matter-attack/Matter-attack/blob/main/matter.png)](https://www.youtube.com/watch?v=CVO1xlYa2n0
+https://www.youtube.com/watch?v=CVO1xlYa2n0
 
 
 ### Here is our attack scenario:
